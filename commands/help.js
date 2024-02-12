@@ -43,7 +43,7 @@ module.exports = {
           { name: '⏮️ Previous', value: 'Play the previous song in the queue' },
           { name: '🔀 Shuffle', value: 'Shuffle the songs in queue' }
         )
-        .setImage(`https://cdn.discordapp.com/attachments/1004341381784944703/1165201249331855380/RainbowLine.gif?ex=654f37ba&is=653cc2ba&hm=648a2e070fab36155f4171962e9c3bcef94857aca3987a181634837231500177&`); 
+        .setImage(`https://media.discordapp.net/attachments/1121377453202477096/1160453398743752724/a_54c4832e793e43c56c5fe96edbc4ecab.gif?ex=65dad472&is=65c85f72&hm=1c180e56394a89815384d345fd07119d9909cad5aa88d6fde9a9112a5bcbc7a7&=`); 
 
       const basicCommandsEmbed = new EmbedBuilder()
         .setColor(client.config.embedColor)
