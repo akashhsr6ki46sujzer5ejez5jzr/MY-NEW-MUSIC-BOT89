@@ -59,17 +59,17 @@ module.exports = {
        .setImage('http://natgeo-gifs.tumblr.com/post/30410481004/via-l-ctea-at-different-times-of-the-day-in-a')
       const button1 = new ButtonBuilder()
         .setLabel('YouTube')
-        .setURL('https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A')
+        .setURL('https://www.youtube.com')
         .setStyle(ButtonStyle.Link);
 
       const button2 = new ButtonBuilder()
         .setLabel('Discord')
-        .setURL('https://discord.gg/FUEHs7RCqz')
+        .setURL('https://discord.com')
         .setStyle(ButtonStyle.Link);
 
       const button3 = new ButtonBuilder()
         .setLabel('Code')
-        .setURL('https://replit.com/@BEASTGAMERS1?tab=community')
+        .setURL('https://replit.com')
         .setStyle(ButtonStyle.Link);
 
       const row = new ActionRowBuilder()
